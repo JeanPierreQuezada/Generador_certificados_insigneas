@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Archivos temporales y generados por la app
+temp_insignias/
+*.zip
+*.tmp
+tmp*.png
+
+# Streamlit
+.streamlit/secrets.toml
+
+# SO
+.DS_Store
+Thumbs.db
